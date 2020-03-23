@@ -90,6 +90,11 @@ namespace DepartmentsEmployees.Data
             }
         }
 
+        internal void AddDepartment(string departmentNameEntered)
+        {
+            throw new NotImplementedException();
+        }
+
         /// <summary>
         ///  Returns a single department with the given id.
         /// </summary>
